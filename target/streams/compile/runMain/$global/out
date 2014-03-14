@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0mRunning akka.Main TransferMain[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/tuts/scala_tuts/actors/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Main-scheduler-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Main-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Main-akka.actor.default-dispatcher-4 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Main-akka.actor.default-dispatcher-4 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Main-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Main-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

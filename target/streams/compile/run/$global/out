@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mRunning Main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/tuts/scala_tuts/actors/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abelbryo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread system-akka.actor.default-dispatcher-3 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread system-akka.actor.default-dispatcher-3 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread system-scheduler-1 to terminate.[0m

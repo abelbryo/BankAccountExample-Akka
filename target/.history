@@ -1,0 +1,13 @@
+~ run
+console
+~run
+~ run
+console
+println("Hello")
+console
+~run
+~ run
+~run
+~ run
+~ compile
+~ run
