@@ -1,6 +1,6 @@
-== BankAccountExample-Akka
+# BankAccountExample-Akka
 
-=== Akka BankAccount example from an online course
+#### Akka BankAccount example from an online course
 To run:
 
 ```
